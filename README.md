@@ -1,0 +1,2 @@
+# stepik_auto_tests_course
+hometask_stepik_course
